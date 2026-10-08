@@ -1,1 +1,5 @@
+.card-img-top {
+    object-fit: contain;
+    /* object-fit: cover;  might work too  */
+}
 
